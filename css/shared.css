@@ -1,0 +1,38 @@
+.main-container {
+    padding: 50px;
+}
+
+.name, .name:hover, .name:visited, .name:active, .name:link {
+    font-family: "Lora";
+    font-weight: medium;
+    font-style: italic;
+    font-size: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.main-nav {
+    font-size: 20px;
+    padding-top: 54px;
+}
+
+.main-nav .nav-link {
+    font-family: 'Cardo';
+    font-weight: normal;
+    font-style: normal;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: black;
+}
+
+.main-icons {
+    padding-top: 36px;
+    padding-left: 13.5px;
+}
+
+.main-icons .icon {
+    color: black;
+    text-decoration: none;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+}
