@@ -30,6 +30,10 @@
     color: black;
 }
 
+.main-nav .nav-link.resume-vita {
+    display: initial;
+}
+
 .main-icons {
     padding-top: 36px;
     padding-left: 13.5px;
@@ -45,13 +49,19 @@
 .main-image-wrapper {
     width: 80%;
     margin: auto;
+    padding-top: 10px;
 }
 
 .main-image {
     width: 100%;
-    padding-top: 10px;
 }
 
 .main-image-caption {
     margin-top: 5px;
+}
+
+.intro {
+    width: 90%;
+    margin: auto;
+    padding-top: 10px;
 }
