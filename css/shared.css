@@ -1,0 +1,67 @@
+.main-container {
+    padding: 50px;
+    font-family: 'Cardo';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.main-container a {
+    color: grey;
+    text-decoration: none;
+}
+
+.name, .name:hover, .name:visited, .name:active, .name:link {
+    font-family: "Lora";
+    font-weight: medium;
+    font-style: italic;
+    font-size: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.main-nav {
+    font-size: 20px;
+    padding-top: 54px;
+}
+
+.main-nav .nav-link {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: black;
+}
+
+.main-nav .nav-link.resume-vita {
+    display: initial;
+}
+
+.main-icons {
+    padding-top: 36px;
+    padding-left: 13.5px;
+}
+
+.main-icons .icon {
+    color: black;
+    text-decoration: none;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+}
+
+.main-image-wrapper {
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.main-image-caption {
+    margin-top: 5px;
+}
+
+.intro {
+    width: 90%;
+    margin: auto;
+    padding-top: 10px;
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('../fonts/lora/Lora-MediumItalic.ttf');
+    font-weight: medium;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../fonts/lora/Lora-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
